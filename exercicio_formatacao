@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="author" content="Samuel Barbosa Neto">
+    <meta name="description" content="Site para atividade avaliativa de PWE">
+    <meta name="keywords" content="HTML, CSS, TSPI" > 
+    <title>Samuel Barbosa Neto</title>
+</head>
+<body 
+style="background-color: #d9ead3; font-family: Tahoma;"
+>
+    <h1 style="font-family: verdana; color: blue; text-align: center;margin-top: 30px;">Sistemas para Internet</h1>
+    <p style="margin-left: 50px;margin-top: 30px;">
+        <span style="color: red; font-weight: bold; font-size: 40px;">A</span> formatação deste texto utiliza tags <strong>HTML</strong> para <del style="text-decoration: line-through underline;">configurá-lo</del> <ins style="text-decoration: line-through underline;">formatá-lo</ins> . Porém, há <i style="color: red;">tecnologias melhores</i> para se fazer isso, como por exemplo <span style="color: red; font-weight: bold; font-style: italic;">CSS<sup>3</sup> </span>. 
+    </p>
+</body>
+</html>
+
